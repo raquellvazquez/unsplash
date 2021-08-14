@@ -20,20 +20,20 @@ Pics is a very basic example of an image search engine, which makes requests to 
 
  <div align="center">
     <br>
-    <img src="" alt="pic" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/unsplash/main/src/assets/pics1.PNG" alt="pic" width="auto" height="auto" />
     <br>
 </div>
 
 <br>
  <div align="center">
     <br>
-    <img src="" alt="pic" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/unsplash/main/src/assets/pics2.PNG" alt="pic" width="auto" height="auto" />
     <br>
 </div>
 <br>
  <div align="center">
     <br>
-    <img src="" alt="pic" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/unsplash/main/src/assets/pics3.PNG" alt="pic" width="auto" height="auto" />
     <br>
 </div>
 
